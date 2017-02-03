@@ -2,23 +2,23 @@
   "name": "Makkani -- startup news in your hand",
   "short_name": "Makkani",
   "icons": [{
-    "src": "icon-128x128.png",
+    "src": "img/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
-      "src": "con-144x144.png",
+      "src": "img/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     }, {
-      "src": "icon-152x152.png",
+      "src": "img/icon-152x152.png",
       "sizes": "152x152",
       "type": "image/png"
     }, {
-      "src": "icon-192x192.png",
+      "src": "img/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }, {
-      "src": "icon-256x256.png",
+      "src": "img/icon-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     }],
